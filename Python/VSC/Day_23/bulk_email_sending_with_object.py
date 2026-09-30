@@ -3,9 +3,9 @@ from email.message import EmailMessage
 sender = ''
 password = ''
 contacts = [
-    {'name': 'Dileep Kumar', 'email': 'dileepkumarvalluri28@gmail.com'},
-    {'name': 'Dileep Kumar', 'email': 'dileepkumarvalluri0103@gmail.com'},
-    {'name': 'Dileep Kumar', 'email': 'dileepkumarvalluri2005@gmail.com'},
+    {'name': 'User1', 'email': '............@gmail.com'},
+    {'name': 'User2', 'email': '...........@gmail.com'},
+    {'name': 'User3', 'email': '...........@gmail.com'},
 ]
 server = smtplib.SMTP('smtp.gmail.com', 587)
 server.starttls()
