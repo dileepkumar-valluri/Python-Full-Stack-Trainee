@@ -1,6 +1,6 @@
 import smtplib
 from email.message import EmailMessage
-sender = 'dileepkumarvalluri31@gmail.com'
+sender = ''
 password = ''
 contacts = [
     {'name': 'Dileep Kumar', 'email': 'dileepkumarvalluri28@gmail.com'},

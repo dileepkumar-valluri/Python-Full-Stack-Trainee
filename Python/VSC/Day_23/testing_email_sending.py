@@ -1,7 +1,7 @@
 import smtplib
-sender = 'dileepkumarvalluri31@gmail.com'
-receiver = 'dileepkumarvalluri28@gmail.com'
-password = 'esrbtjstnvbpfvym'
+sender = ''
+receiver = ''
+password = ''
 msg = 'Hi this is Dileep Kumar from Codegnan Institute'
 server = smtplib.SMTP('smtp.gmail.com', 587)
 server.starttls()

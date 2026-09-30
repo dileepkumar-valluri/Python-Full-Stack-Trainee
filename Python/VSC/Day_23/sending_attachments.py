@@ -1,8 +1,8 @@
 import smtplib
 from email.message import EmailMessage
-sender = 'dileepkumarvalluri31@gmail.com'
-receiver = 'dileepkumarvalluri28@gmail.com'
-password = 'esrbtjstnvbpfvym'
+sender = ''
+receiver = ''
+password = ''
 
 # Create a file containing prime numbers from 2 to 100
 with open('prime_numbers.txt', 'w') as file:
