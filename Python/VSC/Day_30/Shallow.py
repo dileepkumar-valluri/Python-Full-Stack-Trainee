@@ -2,7 +2,7 @@
 # Deepcopy- it will copy outer and inner without sharing and accessing each other
 import copy
 l1 = [1, 2, [10, 20]]
-l2 = copy.coopy(l1)
+l2 = copy.copy(l1)
 l2 = copy.deepcopy(l1)
 print(l1, l2)
 l2[0] = 100
