@@ -1,0 +1,6 @@
+ID,Name,Role,Department,Salary,Status
+101,Aarav Sharma,Software Engineer,Engineering,85000,Active
+102,Priya Patel,Data Analyst,Analytics,72000,Active
+103,Rohan Verma,,Product,95000,Active
+104,Ananya Iyer,UX Designer,Design,78000,Active
+105,Vikram Singh,DevOps Lead,Engineering,,Inactive
